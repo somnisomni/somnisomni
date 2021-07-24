@@ -2,6 +2,10 @@ somni ☁
 =======
 > Profile README.md is currently WIP
 
+[![somni's GitHub stats](https://github-readme-stats.vercel.app/api?username=somnisomni)](https://github.com/anuraghazra/github-readme-stats)
+
+[![solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=sdskykloud)](https://solved.ac/sdskykloud)
+
 Who am I?
 ---------
   * Amateur **programmer**
