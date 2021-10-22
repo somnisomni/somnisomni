@@ -2,9 +2,10 @@ somni ☁
 =======
 > Profile README.md is currently WIP
 
-[![somni's GitHub stats](https://github-readme-stats.vercel.app/api?username=somnisomni&theme=gotham)](https://github.com/anuraghazra/github-readme-stats)
-
-[![solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=sdskykloud)](https://solved.ac/sdskykloud)
+<p align="center">
+ <a href="#"><img src="https://github-readme-stats.vercel.app/api?username=somnisomni&theme=gotham" alt="somni's GitHub status" height="200px" /></a>
+ <a href="https://solved.ac/sdskykloud"><img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=sdskykloud" alt="somni's solved.ac profile" height="200px" /></a>
+</p>
 
 Who am I?
 ---------
