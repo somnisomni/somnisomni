@@ -9,7 +9,7 @@ somni ☁
 
 Who am I?
 ---------
-  * Amateur **programmer**
+  * Amateur **programmer**/**full-stack developer**
   * Hobbyist **character illustrator** *as ソラクモ*
   * Former<sup>?</sup> hobbyist **MikuMikuDance creator** *as ソラクモ*
   * **Language translation voluteer** (usually EN to KO)
