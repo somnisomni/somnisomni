@@ -10,13 +10,58 @@ somni ☁
 Who am I?
 ---------
   * Amateur **programmer**/**full-stack developer** *(primarily Web frontend)*
-  * Hobbyist **character illustrator** *as ソラクモ*
-  * Former<sup>?</sup> hobbyist **MikuMikuDance creator** *as ソラクモ*
-  * Hobbyist **Language translation volunteer** (usually EN to KO)
+    <table>
+      <tbody>
+        <tr>
+          <td><strong>Languages</strong></td>
+          <td><img alt="HTML5" title="HTML5" height="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg"></td>
+          <td><img alt="CSS3" title="CSS3" height="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg"></td>
+          <td><img alt="SASS/SCSS" title="SASS/SCSS" height="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg"></td>
+          <td><img alt="TypeScript" title="TypeScript" height="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg"></td>
+          <td><img alt="JavaScript" title="JavaScript" height="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg"></td>
+          <td><img alt="C#" title="C#" height="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg"></td>
+          <td><img alt="Python" title="Python" height="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg"></td>
+        </tr>
+        <tr>
+          <td><strong>Frameworks</strong></td>
+          <td><img alt="Node.js" title="Node.js" height="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg"></td>
+          <td><img alt="Vue.js" title="Vue.js" height="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg"></td>
+          <td><img alt="Svelte" title="Svelte" height="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/svelte/svelte-original.svg"></td>
+          <td><img alt="Unity" title="Unity" height="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unity/unity-original.svg"></td>
+          <td><img alt=".NET Framework" title=".NET Framework" height="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dot-net/dot-net-original.svg"></td>
+          <td><img alt=".NET Core" title=".NET Core" height="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dotnetcore/dotnetcore-original.svg"></td>
+        </tr>
+        <tr>
+          <td><strong>Editors / <span alt="Documentation" title="Documentation">D11N</span></strong></td>
+          <td><img alt="Visual Studio Code" title="Visual Studio Code" height="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg"></td>
+          <td><img alt="Visual Studio" title="Visual Studio" height="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg"></td>
+          <td><img alt="Markdown" title="Markdown" height="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/markdown/markdown-original.svg"></td>
+        </tr>
+        <tr>
+          <td><strong>OS / Server env.</strong></td>
+          <td><img alt="Linux" title="Linux" height="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg"></td>
+          <td><img alt="Ubuntu" title="Ubuntu" height="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ubuntu/ubuntu-plain.svg"></td>
+          <td><img alt="Debian" title="Debian" height="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/debian/debian-original.svg"></td>
+          <td><img alt="SSH" title="SSH" height="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ssh/ssh-original.svg"></td>
+          <td><img alt="NGINX" title="NGINX" height="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nginx/nginx-original.svg"></td>
+          <td><img alt="Podman" title="Podman" height="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/podman/podman-original.svg"></td>
+          <td><img alt="Docker" title="Docker" height="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg"></td>
+        </tr>
+        <tr>
+          <td><strong>Hardware</strong></td>
+          <td><img alt="Basic electrical knowledge" title="Basic electrical knowledge" height="32px" src="https://raw.githubusercontent.com/Templarian/MaterialDesign/master/svg/chip.svg"></td>
+          <td><img alt="Raspberry Pi" title="Raspberry Pi" height="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/raspberrypi/raspberrypi-original.svg"></td>
+          <td><img alt="Arduino" title="Arduino" height="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg"></td>
+        </tr>
+      </tbody>
+    </table>
+
+    > **NOTE**: Table above is the collection of stacks that I *EXPERIENCED and DID A/SOME PROJECT(S) WITH IT*. These may not mean "well-skilled".
+  * Hobbyist **Language translation volunteer** (usually 🇺🇸English to 🇰🇷Korean)
+  * Hobbyist **content creator**(like *character illustration*, *MikuMikuDance*, etc) as *another name*
 
 Links
 -----
-  * Homepage: [somni](https://somni.one) / [ソラクモ](https://srkm.work)
-    > Both homepages are currently WIP
-  * Twitter: [somni](https://twitter.com/somni_somni) / [ソラクモ](https://twitter.com/sd_srkm)
-  * pixiv: [ソラクモ](https://www.pixiv.net/users/21160166)
+  * Homepage: [somni](https://somni.one)
+    > Homepage is currently WIP <s>forever?</s>
+  * Twitter: [@somni_somni](https://twitter.com/somni_somni)
