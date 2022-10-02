@@ -10,8 +10,13 @@ somni ☁
 Who am I?
 ---------
   * Amateur **programmer**/**full-stack developer** *(primarily Web frontend)*
-    <table>
+    <table width="400px">
       <tbody>
+        <tr>
+          <th></th>
+          <!-- Workaround for small screens (icon images collapsing) -->
+          <td colspan="100">$$\textcolor{transparent}{\text{PadPadPadPadPadPadPadPadPadPadPadPadPadPad}}$$</td>
+        </tr>
         <tr>
           <th><strong>Languages</strong></th>
           <td><img alt="HTML5" title="HTML5" height="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg"></td>
