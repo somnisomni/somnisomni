@@ -62,7 +62,7 @@ Who am I?
     </table>
 
     > **NOTE**: Table above is the collection of stacks that I *EXPERIENCED and/or DID A/SOME PROJECT(S) WITH IT*. These may not mean "well-skilled".
-  * Hobbyist **Language translation volunteer** (usually 🇺🇸English to 🇰🇷Korean)
+  * Hobbyist **Language translation volunteer** (mainly 🇺🇸English to 🇰🇷Korean + possibly 🇯🇵Japanese to 🇰🇷Korean)
   * Hobbyist **content creator**(like *character illustration*, *MikuMikuDance*, etc) as *another name*
 
 Links
