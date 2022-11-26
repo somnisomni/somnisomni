@@ -65,6 +65,8 @@ Who am I?
   * Hobbyist **Language translation volunteer** (mainly 🇺🇸English to 🇰🇷Korean + possibly 🇯🇵Japanese to 🇰🇷Korean)
   * Hobbyist **content creator**(like *character illustration*, *MikuMikuDance*, etc) as *another name*
 
+  **PGP**: [`782C AE24 A5B5 1DE9`](https://keybase.io/somnisomni)
+
 Links
 -----
   * Homepage: [somni](https://somni.one)
