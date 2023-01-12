@@ -1,7 +1,7 @@
 somni ☁
 =======
 <p align="center">
- <a href="#"><img src="https://github-readme-stats.vercel.app/api?username=somnisomni&theme=gotham" alt="somni's GitHub status" height="170px" /></a><br />
+ <a href="#"><img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=somnisomni&show_icons=true&theme=gotham" alt="somni's GitHub status" height="170px" /></a><br />
  <img src="https://komarev.com/ghpvc/?username=somnisomni&style=for-the-badge&label=PROFILE+PAGE+HITS&color=orange">
 </p>
 
