@@ -7,9 +7,9 @@ somni ☁
 
 Who am I?
 ---------
-  * Amateur **programmer/developer** *(primarily Web frontend)*
-  * Hobbyist **language translation volunteer** (mainly 🇺🇸English to 🇰🇷Korean + possibly 🇯🇵Japanese to 🇰🇷Korean)
-  * Hobbyist **content creator**(like *character illustration*, *MikuMikuDance*, etc) as *another name*
+  * A student in **School of Game** at [**Chungkang College of Cultural Industries**](https://ck.ac.kr) (2023 ~)
+  * A **programmer/developer** *(primarily Web frontend)*
+  * Hobbyist **language translation volunteer** (mainly 🇺🇸English to 🇰🇷Korean, possibly 🇯🇵Japanese to 🇰🇷Korean)
 
   **PGP**: [`782C AE24 A5B5 1DE9`](https://keybase.io/somnisomni)
   
