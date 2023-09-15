@@ -13,11 +13,11 @@ Who am I?
 
   **PGP**: [`782C AE24 A5B5 1DE9`](https://keybase.io/somnisomni)
   
-  **You can check my detailed profile on my website!**: [me.somni.one](https://me.somni.one) *(WIP)*
+  ~~**You can check my detailed profile on my website!**: [me.somni.one](https://me.somni.one) *(WIP)*~~
 
 Links
 -----
   * Homepage: [somni.one](https://somni.one)
     > Homepage is currently WIP <s>forever?</s>
-  * Twitter: [@somni_somni](https://twitter.com/somni_somni)
-  * Mastodon: <a href="https://planet.moe/@somni" rel="me">@somni at planet.moe</a>
+  * Twitter (X): [@somni_somni](https://twitter.com/somni_somni)
+  * Mastodon: <a href="https://planet.moe/@somni" rel="me">@somni@planet.moe</a>
