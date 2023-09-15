@@ -20,4 +20,4 @@ Links
   * Homepage: [somni.one](https://somni.one)
     > Homepage is currently WIP <s>forever?</s>
   * Twitter (X): [@somni_somni](https://twitter.com/somni_somni)
-  * Mastodon: <a href="https://planet.moe/@somni" rel="me">@somni@planet.moe</a>
+  * Mastodon: <a href="https://planet.moe/@somni" rel="me">＠somni＠planet.moe</a>
