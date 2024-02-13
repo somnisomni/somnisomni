@@ -17,3 +17,7 @@ jobs:
         uses: gautamkrishnar/blog-post-workflow@v1
         with:
           feed_list: "https://log.somni.one/rss/"
+          max_post_count: 3
+          commit_message: "[GHA] README update with latest blog posts"
+          committer_username: "github-actions[bot]"
+          committer_email: "github-actions[bot]@users.noreply.github.com"
