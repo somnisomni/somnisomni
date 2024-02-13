@@ -2,7 +2,6 @@ somni ☁
 =======
 <p align="center">
  <a href="#"><img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=somnisomni&show_icons=true&theme=gotham" alt="somni's GitHub status" height="170px" /></a><br />
- <img src="https://visitor-badge.glitch.me/badge?page_id=somnisomni.somnisomni&left_color=green&right_color=red" alt="README visitors" />
 </p>
 
 Who am I?
