@@ -55,6 +55,11 @@ Development Skills
 [somni.log](https://log.somni.one) Latest Posts
 -----------------------------------------------
 <!-- BLOG-POST-LIST:START -->
+- [Vue + vue-facing-decorator + Vite 5 사용 시 빌드 오류 해결](https://log.somni.one/vite-5-build-issue-workaround/)
+- [NGINX + HTTP/3 삽질 기록](https://log.somni.one/working-with-nginx-http3/)
+- [&lpar;오드로이드 N2+&rpar; 최신 Armbian 빌드에서 부팅 불가 문제 해결](https://log.somni.one/odroid-n2plus-not-booting-on-latest-armbian/)
+- [조이트론 네온2 게임패드 간단 리뷰 &lpar;with EX M AIR&rpar;](https://log.somni.one/joytron-neon2-review/)
+- [2022년 회고: 길을 찾고, 길을 잃고, 다시 길을 찾다](https://log.somni.one/2022-retrospection/)
 <!-- BLOG-POST-LIST:END -->
 
 Links
