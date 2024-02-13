@@ -43,6 +43,8 @@ somni ☁
 
 ### General
   ![Git](https://img.shields.io/badge/Git-F1563B?style=for-the-badge&logo=Git&logoColor=white)
+  ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-1671B0?style=for-the-badge&logo=VisualStudioCode&logoColor=white)
+  ![Visual Studio](https://img.shields.io/badge/Visual%20Studio-673B99?style=for-the-badge&logo=VisualStudio&logoColor=white)
   ![C++](https://img.shields.io/badge/C%2B%2B-004283?style=for-the-badge&logo=Cplusplus&logoColor=white)
   ![Python](https://img.shields.io/badge/Python-FFE874?style=for-the-badge&logo=Python&logoColor=white&labelColor=2D6999)
 
