@@ -4,8 +4,8 @@ somni ☁
  <a href="#"><img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=somnisomni&show_icons=true&theme=gotham" alt="somni's GitHub status" height="170px" /></a><br />
 </p>
 
-Who am I?
----------
+🤤 Who am I?
+------------
   * A student in **School of Game** at [**Chungkang College of Cultural Industries**](https://ck.ac.kr) (2023 ~)
   * A **developer** *(Web full stack, primarily)*
   * Hobbyist **language translation volunteer**  
@@ -13,8 +13,8 @@ Who am I?
 
   **🔑 PGP**: [`782C AE24 A5B5 1DE9`](https://keybase.io/somnisomni)
 
-Development Skills
-------------------
+☄️ Development Skills
+---------------------
 ### Web Frontend
   ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=TypeScript&logoColor=FAF9F8)
   ![Vue.js](https://img.shields.io/badge/Vue.js-40B883?style=for-the-badge&logo=Vuedotjs&logoColor=white)
@@ -52,16 +52,16 @@ Development Skills
   ![Windows Presentation Foundation](https://img.shields.io/badge/WPF-1365A4?style=for-the-badge&logo=dotnet&logoColor=white)
   ![Android](https://img.shields.io/badge/Android-3ADC87?style=for-the-badge&logo=Android&logoColor=white)
 
-[somni.log](https://log.somni.one) Latest Posts
------------------------------------------------
+📔 [somni.log](https://log.somni.one) Latest Posts
+--------------------------------------------------
 <!-- BLOG-POST-LIST:START -->
 - [Vue + vue-facing-decorator + Vite 5 사용 시 빌드 오류 해결](https://log.somni.one/vite-5-build-issue-workaround/)
 - [NGINX + HTTP/3 삽질 기록](https://log.somni.one/working-with-nginx-http3/)
 - [&lpar;오드로이드 N2+&rpar; 최신 Armbian 빌드에서 부팅 불가 문제 해결](https://log.somni.one/odroid-n2plus-not-booting-on-latest-armbian/)
 <!-- BLOG-POST-LIST:END -->
 
-Links
------
+🔗 Links
+--------
   * Homepage: [somni.one](https://somni.one)
     > Homepage is currently WIP <s>forever?</s>
   * X (Twitter): [@somni_somni](https://twitter.com/somni_somni)
