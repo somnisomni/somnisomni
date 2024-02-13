@@ -54,8 +54,8 @@ somni ☁
   ![Windows Presentation Foundation](https://img.shields.io/badge/WPF-1365A4?style=for-the-badge&logo=dotnet&logoColor=white)
   ![Android](https://img.shields.io/badge/Android-3ADC87?style=for-the-badge&logo=Android&logoColor=white)
 
-📔 [somni.log](https://log.somni.one) Latest Posts
---------------------------------------------------
+📔 [somni.log](https://log.somni.one) Latest Posts *(Korean)*
+-------------------------------------------------------------
 <!-- BLOG-POST-LIST:START -->
 - [Vue + vue-facing-decorator + Vite 5 사용 시 빌드 오류 해결](https://log.somni.one/vite-5-build-issue-workaround/)
 - [NGINX + HTTP/3 삽질 기록](https://log.somni.one/working-with-nginx-http3/)
