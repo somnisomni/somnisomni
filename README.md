@@ -41,7 +41,7 @@ somni ☁
   ![Unity](https://img.shields.io/badge/Unity-080808?style=for-the-badge&logo=Unity&logoColor=white)
   ![C#](https://img.shields.io/badge/C%23-5128D5?style=for-the-badge&logo=CSharp&logoColor=white)
 
-### General
+### General / Tools / IDEs
   ![Git](https://img.shields.io/badge/Git-F1563B?style=for-the-badge&logo=Git&logoColor=white)
   ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-1671B0?style=for-the-badge&logo=VisualStudioCode&logoColor=white)
   ![Visual Studio](https://img.shields.io/badge/Visual%20Studio-673B99?style=for-the-badge&logo=VisualStudio&logoColor=white)
@@ -51,6 +51,8 @@ somni ☁
 ### Past Experience
   ![C](https://img.shields.io/badge/C-01589C?style=for-the-badge&logo=C&logoColor=white)
   ![Java](https://img.shields.io/badge/Java-5283A2?style=for-the-badge&logo=Oracle&logoColor=white)
+  ![Visual Basic .NET](https://img.shields.io/badge/Visual%20Basic%20.NET-1365A4?style=for-the-badge&logo=dotnet&logoColor=white)
+  ![Windows Forms](https://img.shields.io/badge/Windows%20Forms-1365A4?style=for-the-badge&logo=dotnet&logoColor=white)
   ![Windows Presentation Foundation](https://img.shields.io/badge/WPF-1365A4?style=for-the-badge&logo=dotnet&logoColor=white)
   ![Android](https://img.shields.io/badge/Android-3ADC87?style=for-the-badge&logo=Android&logoColor=white)
 
