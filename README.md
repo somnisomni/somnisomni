@@ -18,7 +18,9 @@ somni ☁
 ### Web Frontend
   ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=TypeScript&logoColor=FAF9F8)
   ![Vue.js](https://img.shields.io/badge/Vue.js-40B883?style=for-the-badge&logo=Vuedotjs&logoColor=white)
+  ![Vuetify](https://img.shields.io/badge/Vuetify-1867C0?style=for-the-badge&logo=Vuetify&logoColor=white)
   ![ViteJS](https://img.shields.io/badge/ViteJS-8A75FE?style=for-the-badge&logo=Vite&logoColor=white&labelColor=8A75FE&color=3595BD)
+  ![SCSS (SASS)](https://img.shields.io/badge/SCSS-CC6699?style=for-the-badge&logo=SASS&logoColor=white)
   ![Svelte](https://img.shields.io/badge/Svelte-FF4513?style=for-the-badge&logo=Svelte&logoColor=white)
   ![HTML5](https://img.shields.io/badge/HTML5-E5532F?style=for-the-badge&logo=HTML5&logoColor=white)
   ![CSS3](https://img.shields.io/badge/CSS3-1375BB?style=for-the-badge&logo=CSS3&logoColor=white)
@@ -32,6 +34,7 @@ somni ☁
 
 ### Deployment & Server Management
   ![Linux](https://img.shields.io/badge/Linux-FABE23?style=for-the-badge&logo=Linux&logoColor=0A0A0C)
+  ![Debian](https://img.shields.io/badge/Debian-D0074E?style=for-the-badge&logo=Debian&logoColor=white)
   ![NGINX](https://img.shields.io/badge/NGINX-199940?style=for-the-badge&logo=NGINX&logoColor=white)
   ![Podman](https://img.shields.io/badge/Podman-8D32AC?style=for-the-badge&logo=Podman&logoColor=white)
   ![Docker](https://img.shields.io/badge/Docker-2468EE?style=for-the-badge&logo=Docker&logoColor=white)
