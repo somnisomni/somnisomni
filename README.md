@@ -62,9 +62,9 @@ somni ☁
 📔 [somni.log](https://log.somni.one) Latest Posts *(Korean)*
 -------------------------------------------------------------
 <!-- BLOG-POST-LIST:START -->
+- [모노레포 프로젝트에서 VSCode TypeScript 서버 크래시 문제 해결](https://log.somni.one/tsserver-crash-on-vscode-monorepo/)
 - [Vue + vue-facing-decorator + Vite 5 사용 시 빌드 오류 해결](https://log.somni.one/vite-5-build-issue-workaround/)
 - [NGINX + HTTP/3 삽질 기록](https://log.somni.one/working-with-nginx-http3/)
-- [&lpar;오드로이드 N2+&rpar; 최신 Armbian 빌드에서 부팅 불가 문제 해결](https://log.somni.one/odroid-n2plus-not-booting-on-latest-armbian/)
 <!-- BLOG-POST-LIST:END -->
 
 🔗 Links
