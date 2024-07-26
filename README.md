@@ -71,3 +71,4 @@ somni ☁
   * X (Twitter): [@somni_somni](https://twitter.com/somni_somni)
   * Bluesky: <a href="https://bsky.app/profile/somni.one">@somni.one</a>
   * Mastodon: <a href="https://planet.moe/@somni" rel="me">＠somni＠planet.moe</a>
+  * Repositories in graveyard: [@somniGraveyard](https://github.com/somniGraveyard)
