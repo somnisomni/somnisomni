@@ -19,8 +19,8 @@ somni ☁
   ![ViteJS](https://img.shields.io/badge/ViteJS-8A75FE?style=for-the-badge&logo=Vite&logoColor=white&labelColor=8A75FE&color=3595BD)
   ![SCSS (SASS)](https://img.shields.io/badge/SCSS-CC6699?style=for-the-badge&logo=SASS&logoColor=white)
   ![Svelte](https://img.shields.io/badge/Svelte-FF4513?style=for-the-badge&logo=Svelte&logoColor=white)
-  ![HTML5](https://img.shields.io/badge/HTML5-E5532F?style=for-the-badge&logo=HTML5&logoColor=white)
-  ![CSS3](https://img.shields.io/badge/CSS3-1375BB?style=for-the-badge&logo=CSS3&logoColor=white)
+  ![HTML](https://img.shields.io/badge/HTML-E5532F?style=for-the-badge&logo=HTML5&logoColor=white)
+  ![CSS](https://img.shields.io/badge/CSS-1375BB?style=for-the-badge&logo=CSS3&logoColor=white)
   ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=JavaScript&logoColor=black)
 
 ### Web Backend
