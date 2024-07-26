@@ -1,8 +1,5 @@
 somni ☁
 =======
-<p align="center">
- <a href="#"><img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=somnisomni&show_icons=true&theme=gotham" alt="somni's GitHub status" height="170px" /></a><br />
-</p>
 
 🤤 Who am I?
 ------------
@@ -42,7 +39,7 @@ somni ☁
 
 ### Game Development
   ![Unity](https://img.shields.io/badge/Unity-080808?style=for-the-badge&logo=Unity&logoColor=white)
-  ![C#](https://img.shields.io/badge/C%23-5128D5?style=for-the-badge&logo=CSharp&logoColor=white)
+  ![C#](https://img.shields.io/badge/C%23-5128D5?style=for-the-badge&logo=dotnet&logoColor=white)
 
 ### General / Tools / IDEs
   ![Git](https://img.shields.io/badge/Git-F1563B?style=for-the-badge&logo=Git&logoColor=white)
