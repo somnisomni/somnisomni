@@ -40,9 +40,11 @@ somni ☁
 ### Game Development
   ![Unity](https://img.shields.io/badge/Unity-080808?style=for-the-badge&logo=Unity&logoColor=white)
   ![C#](https://img.shields.io/badge/C%23-5128D5?style=for-the-badge&logo=dotnet&logoColor=white)
+  ![FMOD](https://img.shields.io/badge/FMOD-000000?style=for-the-badge&logo=FMOD&logoColor=white)
 
 ### General / Tools / IDEs
   ![Git](https://img.shields.io/badge/Git-F1563B?style=for-the-badge&logo=Git&logoColor=white)
+  ![JetBrains Rider](https://img.shields.io/badge/Rider-000000?style=for-the-badge&logo=Rider&logoColor=white)
   ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-1671B0?style=for-the-badge&logo=VisualStudioCode&logoColor=white)
   ![Visual Studio](https://img.shields.io/badge/Visual%20Studio-673B99?style=for-the-badge&logo=VisualStudio&logoColor=white)
   ![C++](https://img.shields.io/badge/C%2B%2B-004283?style=for-the-badge&logo=Cplusplus&logoColor=white)
