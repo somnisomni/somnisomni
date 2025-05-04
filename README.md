@@ -67,6 +67,7 @@ somni ☁
   ![CORSAIR Vengeance PRO SL](https://img.shields.io/badge/CORSAIR%20Vengeance-PRO%20SL%2032GB-333333?style=for-the-badge&logo=Corsair&logoColor=white&labelColor=000000)
   ![EVGA GeForce RTX 3080 Ti FTW3](https://img.shields.io/badge/EVGA-GeForce%20RTX%203080%20Ti%20FTW3-333333?style=for-the-badge&labelColor=000000)
   ![Samsung PM9A1 1TB](https://img.shields.io/badge/Samsung-PM9A1%201TB-333333?style=for-the-badge&logo=Samsung&logoColor=white&labelColor=1428A0)
+  ![Western Digital Red Plus 4TB](https://img.shields.io/badge/WD-RED%20PLUS%204TB-333333?style=for-the-badge&logo=WesternDigital&logoColor=white&labelColor=995DFF)
   ![Razer DeathAdder V2 Pro Genshin Impact Edition](https://img.shields.io/badge/Razer-DA%20V2%20Pro%20Genshin%20Impact%20Edition-333333?style=for-the-badge&logo=Razer&logoColor=00FF00)
   ![ASUS ROG STRIX SCOPE RX](https://img.shields.io/badge/ASUS%20ROG-STRIX%20SCOPE%20RX-333333?style=for-the-badge&logo=ASUS&logoColor=white&labelColor=000000)
 
