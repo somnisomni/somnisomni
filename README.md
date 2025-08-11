@@ -92,4 +92,7 @@ somni ☁
   * X (Twitter): [@somni_somni](https://twitter.com/somni_somni)
   * Bluesky: <a href="https://bsky.app/profile/somni.one">@somni.one</a>
   * Mastodon: <a href="https://planet.moe/@somni" rel="me">＠somni＠planet.moe</a>
-  * Repositories in graveyard: [@somniGraveyard](https://github.com/somniGraveyard)
+
+Abandoned & Deprecated Projects
+-------------------------------
+[@somniGraveyard](https://github.com/somniGraveyard) is the place where my abandoned or deprecated repositories goes after being archived. Please check it out if interested.
