@@ -95,4 +95,4 @@ somni ☁
 
 Abandoned & Deprecated Projects
 -------------------------------
-[@somniGraveyard](https://github.com/somniGraveyard) is the place where my abandoned or deprecated repositories goes after being archived. Please check it out if interested.
+[@somniLegacy](https://github.com/somniLegacy) is the place where my abandoned or deprecated repositories goes after being archived. Please check it out if interested.
