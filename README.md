@@ -12,6 +12,13 @@ somni ☁
 
 ☄️ Development Skills
 ---------------------
+### Game Development
+  ![Unreal Engine](https://img.shields.io/badge/Unreal%20Engine-000000?style=for-the-badge&logo=UnrealEngine&logoColor=white)
+  ![C++](https://img.shields.io/badge/C%2B%2B-004283?style=for-the-badge&logo=Cplusplus&logoColor=white)
+  ![Unity](https://img.shields.io/badge/Unity-080808?style=for-the-badge&logo=Unity&logoColor=white)
+  ![C#](https://img.shields.io/badge/C%23-5128D5?style=for-the-badge&logo=dotnet&logoColor=white)
+  ![FMOD](https://img.shields.io/badge/FMOD-000000?style=for-the-badge&logo=FMOD&logoColor=white)
+
 ### Web Frontend
   ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=TypeScript&logoColor=FAF9F8)
   ![Vue.js](https://img.shields.io/badge/Vue.js-40B883?style=for-the-badge&logo=Vuedotjs&logoColor=white)
@@ -37,17 +44,11 @@ somni ☁
   ![Docker](https://img.shields.io/badge/Docker-2468EE?style=for-the-badge&logo=Docker&logoColor=white)
   ![Cloudflare](https://img.shields.io/badge/Cloudflare-F18229?style=for-the-badge&logo=Cloudflare&logoColor=white)
 
-### Game Development
-  ![Unity](https://img.shields.io/badge/Unity-080808?style=for-the-badge&logo=Unity&logoColor=white)
-  ![C#](https://img.shields.io/badge/C%23-5128D5?style=for-the-badge&logo=dotnet&logoColor=white)
-  ![FMOD](https://img.shields.io/badge/FMOD-000000?style=for-the-badge&logo=FMOD&logoColor=white)
-
 ### General / Tools / IDEs
   ![Git](https://img.shields.io/badge/Git-F1563B?style=for-the-badge&logo=Git&logoColor=white)
   ![JetBrains Rider](https://img.shields.io/badge/Rider-000000?style=for-the-badge&logo=Rider&logoColor=white)
   ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-1671B0?style=for-the-badge&logo=VisualStudioCode&logoColor=white)
   ![Visual Studio](https://img.shields.io/badge/Visual%20Studio-673B99?style=for-the-badge&logo=VisualStudio&logoColor=white)
-  ![C++](https://img.shields.io/badge/C%2B%2B-004283?style=for-the-badge&logo=Cplusplus&logoColor=white)
   ![Python](https://img.shields.io/badge/Python-FFE874?style=for-the-badge&logo=Python&logoColor=white&labelColor=2D6999)
 
 ### Past Experience
@@ -55,7 +56,7 @@ somni ☁
   ![Java](https://img.shields.io/badge/Java-5283A2?style=for-the-badge&logo=Oracle&logoColor=white)
   ![Visual Basic .NET](https://img.shields.io/badge/Visual%20Basic%20.NET-1365A4?style=for-the-badge&logo=dotnet&logoColor=white)
   ![Windows Forms](https://img.shields.io/badge/Windows%20Forms-1365A4?style=for-the-badge&logo=dotnet&logoColor=white)
-  ![Windows Presentation Foundation](https://img.shields.io/badge/WPF-1365A4?style=for-the-badge&logo=dotnet&logoColor=white)
+  ![Windows Presentation Foundation](https://img.shields.io/badge/WPF-365A4?style=for-the-badge&logo=dotnet&logoColor=white)
   ![Android](https://img.shields.io/badge/Android-3ADC87?style=for-the-badge&logo=Android&logoColor=white)
 
 💻 Workspace Gears
