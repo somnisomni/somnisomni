@@ -12,9 +12,11 @@ somni ☁
 
 ☄️ Development Skills
 ---------------------
-### Game Development
+### In Study
   ![Unreal Engine](https://img.shields.io/badge/Unreal%20Engine-000000?style=for-the-badge&logo=UnrealEngine&logoColor=white)
-  ![C++](https://img.shields.io/badge/C%2B%2B-004283?style=for-the-badge&logo=Cplusplus&logoColor=white)
+  ![C++](https://img.shields.io/badge/C%2B%2B%20&#40;Unreal&#41;-004283?style=for-the-badge&logo=Cplusplus&logoColor=white)
+
+### Game Development
   ![Unity](https://img.shields.io/badge/Unity-080808?style=for-the-badge&logo=Unity&logoColor=white)
   ![C#](https://img.shields.io/badge/C%23-5128D5?style=for-the-badge&logo=dotnet&logoColor=white)
   ![FMOD](https://img.shields.io/badge/FMOD-000000?style=for-the-badge&logo=FMOD&logoColor=white)
@@ -50,6 +52,7 @@ somni ☁
   ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-1671B0?style=for-the-badge&logo=VisualStudioCode&logoColor=white)
   ![Visual Studio](https://img.shields.io/badge/Visual%20Studio-673B99?style=for-the-badge&logo=VisualStudio&logoColor=white)
   ![Python](https://img.shields.io/badge/Python-FFE874?style=for-the-badge&logo=Python&logoColor=white&labelColor=2D6999)
+  ![C++](https://img.shields.io/badge/C%2B%2B-004283?style=for-the-badge&logo=Cplusplus&logoColor=white)
 
 ### Past Experience
   ![C](https://img.shields.io/badge/C-01589C?style=for-the-badge&logo=C&logoColor=white)
