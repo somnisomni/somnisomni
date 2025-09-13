@@ -12,7 +12,7 @@ somni ☁
 
 ☄️ Development Skills
 ---------------------
-### In Study
+### Currently Learning
   ![Unreal Engine](https://img.shields.io/badge/Unreal%20Engine-000000?style=for-the-badge&logo=UnrealEngine&logoColor=white)
   ![C++](https://img.shields.io/badge/C%2B%2B%20&#40;Unreal&#41;-004283?style=for-the-badge&logo=Cplusplus&logoColor=white)
 
