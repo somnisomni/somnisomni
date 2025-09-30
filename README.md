@@ -12,10 +12,6 @@ somni ☁
 
 ☄️ Development Skills
 ---------------------
-### Currently Learning
-  ![Unreal Engine](https://img.shields.io/badge/Unreal%20Engine-000000?style=for-the-badge&logo=UnrealEngine&logoColor=white)
-  ![C++](https://img.shields.io/badge/C%2B%2B%20&#40;Unreal&#41;-004283?style=for-the-badge&logo=Cplusplus&logoColor=white)
-
 ### Game Development
   ![Unity](https://img.shields.io/badge/Unity-080808?style=for-the-badge&logo=Unity&logoColor=white)
   ![C#](https://img.shields.io/badge/C%23-5128D5?style=for-the-badge&logo=dotnet&logoColor=white)
