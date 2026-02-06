@@ -80,9 +80,9 @@ somni ☁
 📔 [somni.log](https://log.somni.one) Latest Posts *(Korean)*
 -------------------------------------------------------------
 <!-- BLOG-POST-LIST:START -->
-- [모노레포 프로젝트에서 VSCode TypeScript 서버 크래시 문제 해결](https://log.somni.one/tsserver-crash-on-vscode-monorepo/)
-- [Vue + vue-facing-decorator + Vite 5 사용 시 빌드 오류 해결](https://log.somni.one/vite-5-build-issue-workaround/)
-- [NGINX + HTTP/3 삽질 기록](https://log.somni.one/working-with-nginx-http3/)
+- [Ghost에서 Hugo로 블로그 시스템 마이그레이션](https://log.somni.one/posts/blog-migrated-to-hugo/)
+- [NGINX + HTTP/3 삽질 기록](https://log.somni.one/posts/working-with-nginx-http3/)
+- [2022년 회고: 길을 찾고, 길을 잃고, 다시 길을 찾다](https://log.somni.one/posts/2022-retrospection/)
 <!-- BLOG-POST-LIST:END -->
 
 🔗 Links
