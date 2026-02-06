@@ -16,7 +16,7 @@ jobs:
       - name: Pull in somni.log posts
         uses: gautamkrishnar/blog-post-workflow@v1
         with:
-          feed_list: "https://log.somni.one/rss/"
+          feed_list: "https://log.somni.one/index.xml"
           max_post_count: 3
           commit_message: "[GHA] README update with latest blog posts"
           committer_username: "github-actions[bot]"
