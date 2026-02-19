@@ -3,7 +3,7 @@ somni ☁
 
 🤤 Who am I?
 ------------
-  * A student in **School of Game** at [**Chungkang College of Cultural Industries**](https://ck.ac.kr) (2023 ~ 2026)
+  * Graduated from the **School of Game** at [**Chungkang College of Cultural Industries**](https://ck.ac.kr) (2023 ~ 2026)
   * A **developer** *(Unity game client and web full stack, primarily)*
   * Hobbyist **language translation volunteer**  
     (mainly 🇺🇸 English to 🇰🇷 Korean, possibly 🇯🇵 Japanese to 🇰🇷 Korean)
