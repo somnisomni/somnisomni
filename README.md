@@ -61,8 +61,7 @@ somni ☁
 💻 Workspace Gears
 ------------------
 ### Desktop
-  ![EndeavourOS](https://img.shields.io/badge/EndeavourOS-7F7FFF?style=for-the-badge&logo=EndeavourOS&logoColor=white)
-  ![AMD Ryzen](https://img.shields.io/badge/AMD%20RYZEN-5900X-333333?style=for-the-badge&logo=AMD&logoColor=white&labelColor=ED1C24)
+  ![AMD Ryzen 9 5900X](https://img.shields.io/badge/AMD%20RYZEN%209-5900X-333333?style=for-the-badge&logo=AMD&logoColor=white&labelColor=ED1C24)
   ![ASUS PRIME X570-PRO](https://img.shields.io/badge/ASUS%20PRIME-X570%20PRO-333333?style=for-the-badge&logo=ASUS&logoColor=white&labelColor=000000)
   ![CORSAIR Vengeance PRO SL](https://img.shields.io/badge/CORSAIR%20Vengeance-PRO%20SL%2032GB-333333?style=for-the-badge&logo=Corsair&logoColor=white&labelColor=000000)
   ![EVGA GeForce RTX 3080 Ti FTW3](https://img.shields.io/badge/EVGA-GeForce%20RTX%203080%20Ti%20FTW3-333333?style=for-the-badge&labelColor=000000)
@@ -70,6 +69,25 @@ somni ☁
   ![Western Digital Red Plus 4TB](https://img.shields.io/badge/WD-RED%20PLUS%204TB-333333?style=for-the-badge&logo=WesternDigital&logoColor=white&labelColor=995DFF)
   ![Razer DeathAdder V2 Pro Genshin Impact Edition](https://img.shields.io/badge/Razer-DA%20V2%20Pro%20Genshin%20Impact%20Edition-333333?style=for-the-badge&logo=Razer&logoColor=00FF00)
   ![ASUS ROG STRIX SCOPE RX](https://img.shields.io/badge/ASUS%20ROG-STRIX%20SCOPE%20RX-333333?style=for-the-badge&logo=ASUS&logoColor=white&labelColor=000000)
+
+### Desktop environment
+#### Coming Soon
+  > See more set-up at [the README of my dotfiles](https://github.com/somnisomni/dotfiles-linux/blob/main/README.md)
+
+  [![Personal dotfiles](https://img.shields.io/badge/Personal%20Dotfiles-000000?style=for-the-badge&logo=dotenv&logoColor=white)](https://github.com/somnisomni/dotfiles-linux)
+  ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=Linux&logoColor=black)
+  ![CachyOS](https://img.shields.io/badge/CachyOS-00AA88?style=for-the-badge&logo=CachyOS&logoColor=white)
+  ![Zsh](https://img.shields.io/badge/Zsh-F15A24?style=for-the-badge&logo=Zsh&logoColor=white)
+  ![Niri](https://img.shields.io/badge/Niri-D55C44?style=for-the-badge&logo=Niri&logoColor=white)
+  ![Noctalia Shell](https://img.shields.io/badge/Noctalia%20Shell-5D65F5?style=for-the-badge&logo=Noctalia&logoColor=white)
+  ![Windows VM on QEMU/KVM](https://img.shields.io/badge/Windows%20VM%20on%20QEMU%2FKVM-0078D7?style=for-the-badge&logo=QEMU&logoColor=white)
+  
+#### Right Now
+  ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=Linux&logoColor=black)
+  ![EndeavourOS](https://img.shields.io/badge/EndeavourOS-7F7FFF?style=for-the-badge&logo=EndeavourOS&logoColor=white)
+  ![Zsh](https://img.shields.io/badge/Zsh-F15A24?style=for-the-badge&logo=Zsh&logoColor=white)
+  ![KDE Plasma](https://img.shields.io/badge/KDE%20Plasma-1D99F3?style=for-the-badge&logo=KDEPlasma&logoColor=white)
+  ![Windows VM on QEMU/KVM](https://img.shields.io/badge/Windows%20VM%20on%20QEMU%2FKVM-0078D7?style=for-the-badge&logo=QEMU&logoColor=white)
 
 ### MacBook Pro 14″
   ![macOS](https://img.shields.io/badge/macOS-000000?style=for-the-badge&logo=Apple&logoColor=white)
