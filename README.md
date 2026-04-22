@@ -72,7 +72,7 @@ somni ☁
 
 ### Desktop environment
 #### Coming Soon
-  > See more set-up at [the README of my dotfiles](https://github.com/somnisomni/dotfiles-linux/blob/main/README.md)
+  > See more set-ups at [the README of my dotfiles](https://github.com/somnisomni/dotfiles-linux/blob/main/README.md)
 
   [![Personal dotfiles](https://img.shields.io/badge/Personal%20Dotfiles-000000?style=for-the-badge&logo=dotenv&logoColor=white)](https://github.com/somnisomni/dotfiles-linux)
   ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=Linux&logoColor=black)
