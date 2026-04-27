@@ -71,7 +71,6 @@ somni ☁
   ![ASUS ROG STRIX SCOPE RX](https://img.shields.io/badge/ASUS%20ROG-STRIX%20SCOPE%20RX-333333?style=for-the-badge&logo=ASUS&logoColor=white&labelColor=000000)
 
 ### Desktop environment
-#### Coming Soon
   > See more set-ups at [the README of my dotfiles](https://github.com/somnisomni/dotfiles-linux/blob/main/README.md)
 
   [![Personal dotfiles](https://img.shields.io/badge/Personal%20Dotfiles-000000?style=for-the-badge&logo=dotenv&logoColor=white)](https://github.com/somnisomni/dotfiles-linux)
@@ -80,13 +79,6 @@ somni ☁
   ![Zsh](https://img.shields.io/badge/Zsh-F15A24?style=for-the-badge&logo=Zsh&logoColor=white)
   ![Niri](https://img.shields.io/badge/Niri-D55C44?style=for-the-badge&logo=Niri&logoColor=white)
   ![Noctalia Shell](https://img.shields.io/badge/Noctalia%20Shell-5D65F5?style=for-the-badge&logo=Noctalia&logoColor=white)
-  ![Windows VM on QEMU/KVM](https://img.shields.io/badge/Windows%20VM%20on%20QEMU%2FKVM-0078D7?style=for-the-badge&logo=QEMU&logoColor=white)
-  
-#### Right Now
-  ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=Linux&logoColor=black)
-  ![EndeavourOS](https://img.shields.io/badge/EndeavourOS-7F7FFF?style=for-the-badge&logo=EndeavourOS&logoColor=white)
-  ![Zsh](https://img.shields.io/badge/Zsh-F15A24?style=for-the-badge&logo=Zsh&logoColor=white)
-  ![KDE Plasma](https://img.shields.io/badge/KDE%20Plasma-1D99F3?style=for-the-badge&logo=KDEPlasma&logoColor=white)
   ![Windows VM on QEMU/KVM](https://img.shields.io/badge/Windows%20VM%20on%20QEMU%2FKVM-0078D7?style=for-the-badge&logo=QEMU&logoColor=white)
 
 ### MacBook Pro 14″
