@@ -73,9 +73,9 @@ somni ☁
 📔 [somni.log](https://log.somni.one) Latest Posts *(Korean)*
 -------------------------------------------------------------
 <!-- BLOG-POST-LIST:START -->
+- [QEMU GPU 패스스루 문제 해결 기록](https://log.somni.one/posts/qemu-passthrough-troubleshooting/)
 - [MacBook Pro에 AppleCare+ 예외 보증 가입 경험담](https://log.somni.one/posts/macbookpro-applecareplus/)
 - [Ghost에서 Hugo로 블로그 시스템 마이그레이션](https://log.somni.one/posts/blog-migrated-to-hugo/)
-- [NGINX + HTTP/3 삽질 기록](https://log.somni.one/posts/working-with-nginx-http3/)
 <!-- BLOG-POST-LIST:END -->
 
 🔗 Links
